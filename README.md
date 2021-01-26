@@ -11,11 +11,14 @@
 
 <a href="http://github.com/" align="center" rel="some text">![Foo](https://static.javatpoint.com/tutorial/machine-learning/images/random-forest-algorithm2.png)</a>
 
-
 #### Execução:
 <a href="http://google.com.au/" align="center" rel="some text">![Foo](https://github.com/JeanJesusTI/Algoritimos_De_Classificacao-Comparacoes/blob/main/img/DTC.PNG)</a>
 
+
 Ao realizarmos a execução do comando, validando o score pelo método de Cross-Validation podemos ver que a acuracidade da nossa DecisionTreeClassifier é de: 77,19%.
+
+
+
 
 
 

@@ -1,4 +1,4 @@
-# AlgoritimosDeClassificacao-Comparacoes
+# Algoritimos De Classificação - Comparações
   Neste repositório está armazenado um arquivo do tipo Jupyter Notebook utilizando a linguagem Python, onde será realizado a comparação entre 3 algoritimos de classificação, sendo eles:  
   
   * DecisionTreeClassifier 

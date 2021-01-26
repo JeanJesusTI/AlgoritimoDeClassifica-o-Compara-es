@@ -59,3 +59,9 @@
   A técnica consiste em utilizar todo o conjunto de dados e particiona-los em subconjuntos mutuamente exclusivos para serem utilizados como dados de treino / teste, conforme imagem abaixo:
 
 <a href="http://google.com.au/" rel="some text">![Foo](https://www.mltut.com/wp-content/uploads/2020/05/cross-validation.png)</a>
+
+
+
+
+## Considerações
+  Nesta comparação, podemos ver que o algoritimo ExtraTreesClassifier teve o melhor score, porém, não podemos inferir que esse algoritimo é melhor que os outros; podemos dizer que "**NESTE**" caso, o algoritimo teve um desempenho melhor, porém, se realizarmos alterações de parâmetros e realizarmos tratamentos nos dados, os algoritimos que tiveram acuracidade menor poderiam ser aprimorados de forma a ultrapassar a performance do melhor algoritimo (no caso ExtraTreeClassifier). Para sabermos qual algoritimo é o melhor, devemos testar a maioria deles, realizar alteração de parâmetros para se extrair o melhor deles; só após isso, poderemos dizer que o algoritimo **X** é o melhor **para o nosso problema**, porém para outros problemas, ele pode não ser o mais indicado.

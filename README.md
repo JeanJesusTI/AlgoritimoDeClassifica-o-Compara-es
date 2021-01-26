@@ -28,7 +28,7 @@
     * Utilizamos o ExtraTreesClassifier para criação do Modelo
       
 * **from sklearn.tree import DecisionTreeClassifier**
-    * Utilizamos o DecisionTreeClassifier para criação do Modelo
+    * Utilizamos o  ***DecisionTreeClassifier()*** para criação do Modelo
       
 * **from sklearn.ensemble import RandomForestClassifier**
     * Utilizamos o RandomForestClassifier para criação do Modelo

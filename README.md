@@ -18,6 +18,7 @@
 
 
 ### Método de Análise
+  Como foi utilizado um dataset da biblioteca python, não houve necessidade de realizar a parte de pré-processamento de dados; porém, para uma melhor performance, é extremamente necessário que seja realizada uma análise exploratória e pré-processamento nos dados antes da criação do modelo; como estamos utilizando apenas para fins de demonstração, essas etapas foram ignoradas.
 
 #### Módulos Utilizados
   Para realizarmos essa comparação, utilizamos os seguintes módulos:

@@ -21,11 +21,11 @@
 
 #### Módulos Utilizados
   Para realizarmos essa comparação, utilizamos os seguintes módulos:
-* from sklearn.cross_validation import cross_val_score
+* **from sklearn.cross_validation import cross_val_score**
     * Utilizamos cross_validation para se obter o score dos modelos criados
       
-* from sklearn.ensemble import ExtraTreesClassifier
-      * Utilizamos o ExtraTreesClassifier para criação do Modelo
+* **from sklearn.ensemble import ExtraTreesClassifier**
+    * Utilizamos o ExtraTreesClassifier para criação do Modelo
       
 * from sklearn.tree import DecisionTreeClassifier
     * Utilizamos o DecisionTreeClassifier para criação do Modelo

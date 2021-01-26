@@ -7,7 +7,7 @@
 
 ### DecisionTreeClassifier
   As árvores de decisão são estruturas que podem ser utilizadas para classificação de dados ou para a realização de previsões, também podem ser consideradas como uma ferramenta de apoio da decisão; pois, através da definição de algumas regras, a arvore consegue inferir a decisão que deve ser tomada. A DecisioTree apresenta o formato de uma arvore de cabeça para baixo, onde sua raíz está no topo e suas folhas ficam na parte inferior. Podemos ter uma idéia de seu funcionamento conforme imagem abaixo:
-<a href="http://google.com.au/" rel="some text">![Foo](https://listimg.pinclipart.com/picdir/s/563-5635974_download-mathematic-clipart-decision-tree-icon-png-transparent.png)</a>
+<a href="http://google.com.au/" rel="some text">![Foo](https://toppng.com/public/uploads/preview/decision-tree-clipart-decision-tree-icon-11562939947gccbgvnt1l.png)</a>
 
 
 

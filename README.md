@@ -6,7 +6,7 @@ As árvores de decisão são estruturas que podem ser utilizadas para classifica
 
 
 ### RandomForestClassifier
-  As Random Forest são denominadas um método ensamble *(Método que utiliza a combinação de multiplos modelos para produzir um modelo mais preciso)*, utilizadas para classificação, regressão e outros. De modo geral, as Random Forest combinam um conjunto de **árovres de decisão** para se obter um melhor resultado.
+  As Random Forest são denominadas um método ensamble *(Método que utiliza a combinação de multiplos modelos para produzir um modelo mais preciso)*, que são utilizadas para classificação, regressão e outros. De modo geral, as Random Forest combinam um conjunto de **árovres de decisão** para se obter um melhor resultado.
   
   
 ### ExtraTreesClassifier

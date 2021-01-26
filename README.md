@@ -8,11 +8,14 @@
 ### DecisionTreeClassifier
   As árvores de decisão são estruturas que podem ser utilizadas para classificação de dados ou para a realização de previsões, também podem ser consideradas como uma ferramenta de apoio da decisão; pois, através da definição de algumas regras, a arvore consegue inferir a decisão que deve ser tomada. A DecisioTree apresenta o formato de uma arvore de cabeça para baixo, onde sua raíz está no topo e suas folhas ficam na parte inferior. Podemos ter uma idéia de seu funcionamento conforme imagem abaixo:
   
-<a href="http://google.com.au/" align="center" rel="some text">![Foo](https://github.com/JeanJesusTI/Algoritimos_De_Classificacao-Comparacoes/blob/main/img/DTC.PNG)</a>
-
 
 <a href="http://github.com/" align="center" rel="some text">![Foo](https://static.javatpoint.com/tutorial/machine-learning/images/random-forest-algorithm2.png)</a>
 
+
+#### Execução:
+<a href="http://google.com.au/" align="center" rel="some text">![Foo](https://github.com/JeanJesusTI/Algoritimos_De_Classificacao-Comparacoes/blob/main/img/DTC.PNG)</a>
+
+Ao realizarmos a execução do comando, validando o score pelo método de Cross-Validation podemos ver que a acuracidade da nossa DecisionTreeClassifier é de: 77,19%.
 
 
 

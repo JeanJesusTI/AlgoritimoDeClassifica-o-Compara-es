@@ -41,4 +41,7 @@
     * Utilizamos o módulo *scale()* para colocar os dados das variáveis preditoras em uma mesma escala (para melhorar a performance dos algoritimos)
  
 ## Cross-Validation
+  Para validação, utilizamos Cross-validation, essa técnica  é utilizada para avaliar a capacidade de generalização do modelo, essa análise é feita baseada no conjunto de dados (neste caso, nos dados vindo do load_digits).
+  A técnica consiste em utilizar todo o conjunto de dados e particiona-los em subconjuntos mutuamente exclusivos para serem utilizados como dados de treino / teste, conforme imagem abaixo:
+
 <a href="http://google.com.au/" rel="some text">![Foo](https://www.mltut.com/wp-content/uploads/2020/05/cross-validation.png)</a>

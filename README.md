@@ -41,4 +41,4 @@
     * Utilizamos o módulo *scale()* para colocar os dados das variáveis preditoras em uma mesma escala (para melhorar a performance dos algoritimos)
  
 ## Cross-Validation
-<img src="https://www.google.com/search?q=cross+validation&tbm=isch&ved=2ahUKEwjm3IyNobruAhXVM7kGHYadAFAQ2-cCegQIABAA&oq=cross+validation&gs_lcp=CgNpbWcQAzICCAAyBAgAEB4yBAgAEB4yBAgAEB4yBAgAEB4yBAgAEB4yBAgAEB4yBAgAEB4yBAgAEB4yBAgAEB46CAgAELEDEIMBOgQIABBDOgUIABCxA1DSB1jSG2DWHWgAcAB4AIABnAGIAf0PkgEEMC4xNpgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=dWMQYKbOLNXn5OUPhruCgAU&bih=937&biw=1920&rlz=1C1CHBD_pt-PTBR912BR912#imgrc=Q2BFrwIBPFs5lM">
+<img src="https://www.google.com/search?q=cross+validation&tbm=isch&ved=2ahUKEwjm3IyNobruAhXVM7kGHYadAFAQ2-cCegQIABAA&oq=cross+validation&gs_lcp=CgNpbWcQAzICCAAyBAgAEB4yBAgAEB4yBAgAEB4yBAgAEB4yBAgAEB4yBAgAEB4yBAgAEB4yBAgAEB4yBAgAEB46CAgAELEDEIMBOgQIABBDOgUIABCxA1DSB1jSG2DWHWgAcAB4AIABnAGIAf0PkgEEMC4xNpgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=dWMQYKbOLNXn5OUPhruCgAU&bih=937&biw=1920&rlz=1C1CHBD_pt-PTBR912BR912#imgrc=Q2BFrwIBPFs5lM" alt="Markdown Monster icon" style="float: left; margin-right: 10px;" />

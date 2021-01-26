@@ -14,8 +14,7 @@
 #### Execução:
 <a href="http://google.com.au/" align="center" rel="some text">![Foo](https://github.com/JeanJesusTI/Algoritimos_De_Classificacao-Comparacoes/blob/main/img/DTC.PNG)</a>
 
-
-Ao realizarmos a execução do comando, validando o score pelo método de Cross-Validation podemos ver que a acuracidade da nossa DecisionTreeClassifier é de: 77,19%.
+Ao realizarmos a execução do comando, validando o score pelo método de validação cruzada, podemos ver que a acuracidade da nossa DecisionTreeClassifier é de: 77,19%.
 
 
 
@@ -28,6 +27,12 @@ Ao realizarmos a execução do comando, validando o score pelo método de Cross-
 <a href="http://google.com.au/" align="center" rel="some text">![Foo](https://static.javatpoint.com/tutorial/machine-learning/images/random-forest-algorithm2.png)</a>
   
   
+  
+#### Execução:
+<a href="http://google.com.au/" align="center" rel="some text">![Foo](https://github.com/JeanJesusTI/Algoritimos_De_Classificacao-Comparacoes/blob/main/img/RFC.PNG)</a>
+ 
+Ao realizarmos a execução do comando, validando o score pelo método de validação cruzada, podemos ver que a acuracidade da nossa RandomForestClassifier é de: 93,60%.
+Devemos ressaltar também que, o parâmetro informado dentro da função **n_estimators = 100** equivale a quantidade de árvores de decisões que serão criadas, para que assim, sejam combinados 100 modelos afim de se obter uma acuracidade melhor. Comprovamos essa otimização com o resultado da do score.
   
   
   

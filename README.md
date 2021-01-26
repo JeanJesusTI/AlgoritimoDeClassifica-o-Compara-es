@@ -30,12 +30,12 @@
 * **from sklearn.tree import DecisionTreeClassifier**
     * Utilizamos o DecisionTreeClassifier para criação do Modelo
       
-* **from sklearn.ensemble import RandomForestClassifier
+* **from sklearn.ensemble import RandomForestClassifier**
     * Utilizamos o RandomForestClassifier para criação do Modelo
       
-* **from sklearn.datasets import load_digits
+* **from sklearn.datasets import load_digits**
     * Utilizamos o load_digits para carregar os dados sobre os quais serão realizados a análise
       
-* ***from sklearn.preprocessing import scale
+* **from sklearn.preprocessing import scale**
     * Utilizamos o módulo scale para colocar os dados das variáveis preditoras em uma mesma escala (para melhorar a performance dos algoritimos)
  

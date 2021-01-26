@@ -14,7 +14,7 @@
 #### Execução:
 <a href="http://google.com.au/" align="center" rel="some text">![Foo](https://github.com/JeanJesusTI/Algoritimos_De_Classificacao-Comparacoes/blob/main/img/DTC.PNG)</a>
 
-Ao realizarmos a execução do comando, validando o score pelo método de validação cruzada, podemos ver que a acuracidade da nossa DecisionTreeClassifier é de: 77,19%.
+Ao realizarmos a execução do comando, validando o score pelo método de validação cruzada, podemos ver que a acuracidade da nossa DecisionTreeClassifier é de: **77,19%**.
 
 
 
@@ -31,8 +31,8 @@ Ao realizarmos a execução do comando, validando o score pelo método de valida
 #### Execução:
 <a href="http://google.com.au/" align="center" rel="some text">![Foo](https://github.com/JeanJesusTI/Algoritimos_De_Classificacao-Comparacoes/blob/main/img/RFC.PNG)</a>
  
-Ao realizarmos a execução do comando, validando o score pelo método de validação cruzada, podemos ver que a acuracidade da nossa RandomForestClassifier é de: 93,60%.
-Devemos ressaltar também que, o parâmetro informado dentro da função **n_estimators = 100** equivale a quantidade de árvores de decisões que serão criadas, para que assim, sejam combinados 100 modelos afim de se obter uma acuracidade melhor. Comprovamos essa otimização com o resultado da do score.
+Ao realizarmos a execução do comando, validando o score pelo método de validação cruzada, podemos ver que a acuracidade da nossa RandomForestClassifier é de: **93,60%**.
+Devemos ressaltar também que, o parâmetro informado dentro da função **n_estimators = 100** equivale a quantidade de árvores de decisões que serão criadas, sendo assim, serão combinados 100 modelos de árvores de decisão, afim de se obter uma acuracidade melhor. Comprovamos essa otimização com o resultado da do score.
   
   
   
@@ -40,6 +40,15 @@ Devemos ressaltar também que, o parâmetro informado dentro da função **n_est
   
 ### ExtraTreesClassifier
   A ExtraTreeClassifier é um método de aprendizagem baseado em Decision Tree, utilizando a randomização nas decisões para se obter um melhor aprendizado.
+
+#### Execução:
+<a href="http://google.com.au/" align="center" rel="some text">![Foo](https://github.com/JeanJesusTI/Algoritimos_De_Classificacao-Comparacoes/blob/main/img/EXT.PNG)</a>
+
+Ao realizarmos a execução do comando, validando o score pelo método de validação cruzada, podemos ver que a acuracidade da nossa ExtraTreesClassifier é de: **95,88%**.
+semelhantemente, o parâmetro informado dentro da função **n_estimators = 100** equivale a quantidade de árvores de decisões que serão criadas; o simples fato do algoritimo utilizar a **randomização** nos apresenta um sinal de melhora na acuracidade do modelo. 
+
+
+
 
 
 ## Método de Análise

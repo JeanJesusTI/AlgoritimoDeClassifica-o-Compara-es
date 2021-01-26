@@ -14,8 +14,15 @@
 
 
 
+
+
 ### RandomForestClassifier
   As Random Forest são denominadas um método ensamble *(Método que utiliza a combinação de multiplos modelos para produzir um modelo mais preciso)*, que são utilizadas para classificação, regressão e outros. De modo geral, as Random Forest combinam um conjunto de **árovres de decisão** para se obter um melhor resultado.
+  
+             <a href="http://google.com.au/" align="center" rel="some text">![Foo](https://static.javatpoint.com/tutorial/machine-learning/images/random-forest-algorithm2.png)</a>
+  
+  
+  
   
   
 ### ExtraTreesClassifier
